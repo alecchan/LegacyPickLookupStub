@@ -1,11 +1,11 @@
 {
   "upos": [
     {
-      "id": "123",
+      "id": 123,
       "title": "hello"
     },
  {
-      "id": "456",
+      "id": 456,
       "title": "world"
     }
   ]
